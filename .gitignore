@@ -1,0 +1,14 @@
+# Python / Django
+.levelupEnv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Django sensitive files
+.env
+
+# VSCode
+.vscode/
